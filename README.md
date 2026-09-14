@@ -1,170 +1,166 @@
 # Amir Hosein Heydar
 
-**Quant Researcher | Algorithmic Trading Developer | Systematic Trading Research**
+**Investment Strategy | Systematic Trading Research | Risk & Capital Allocation**
 
-I am an independent quant researcher focused on systematic trading research, market regimes, risk management, backtesting, and algorithmic decision-making.
+I am an independent trading and investment researcher focused on a question that comes before implementation:
 
-My work combines programming, quantitative thinking, trading experience, and systems design. I am especially interested in building trading research frameworks that are explainable, monitorable, and robust across changing market conditions.
+> **Why should an edge exist, what can break it, and how much capital should be trusted to it?**
 
-**Preferred name:** Amir
-**Location:** Remote
-**Email:** [bs.amir.heydar@gmail.com](mailto:bs.amir.heydar@gmail.com)
-**CV:** [Download CV](https://github.com/bsAmirHeydar/bsAmirHeydar/blob/main/assets/Amir_Hosein_Heydar_Quant_Researcher_CV.pdf)
+My work sits at the intersection of trading strategy, research design, risk architecture, systematic execution, and capital allocation. I am most interested in evaluating trading ideas from first principles, challenging hidden assumptions, identifying model fragility, and deciding which parts of a process should remain human-led versus systematic.
 
----
-
-## Focus Areas
-
-* Quantitative trading research
-* Systematic strategy development
-* Market regime analysis
-* Trend-following logic
-* Risk management
-* Backtesting and strategy validation
-* Edge monitoring
-* Decision-making under uncertainty
-* Python / MQL trading research infrastructure
-* Antifragile and convex trading system design
+I use Python, MQL, data analysis, and AI-assisted development as research and implementation tools. My primary value is not software engineering in isolation; it is defining the right research questions, translating market ideas into testable hypotheses, evaluating robustness, and designing decision frameworks around uncertainty.
 
 ---
 
-## Current Main Project
+## Core Areas
 
-### [Decision Alpha Lab](https://github.com/bsAmirHeydar/decision-alpha-lab)
-
-A Python/MQL quantitative research framework for hypothesis-based systematic trading decisions.
-
-The core idea behind Decision Alpha Lab is that a trading strategy should not be tested only as a black-box system. Every trading idea has underlying assumptions about market behavior, trend structure, volatility, regimes, risk, liquidity, and payoff asymmetry.
-
-This project focuses on separating those assumptions, testing them independently, and only then converting validated ideas into trading logic.
-
-Main research questions include:
-
-* Why does a trading edge work?
-* Is the edge still valid during a deep drawdown?
-* Has the market regime changed?
-* Did the assumptions behind the system break down?
-* Is the drawdown within expected behavior?
-* Should the system continue, pause, or be redesigned?
-
-The goal is to build trading systems that are not only historically profitable, but also explainable, measurable, and monitorable.
-
----
-
-## Technical Stack
-
-### Quant Research & Trading
-
-* Python
-* MQL4 / MQL5
-* MetaTrader 4 / MetaTrader 5
-* Backtesting
-* Strategy validation
-* Market regime research
-* Trend-following systems
-* Volatility and fat-tail behavior
-* Risk management
-* Historical data workflows
-
-### Programming & Systems
-
-* Python research tooling
-* MQL Expert Advisors and indicators
-* Git / GitHub
-* TypeScript basics
-* Algorithmic problem-solving
-* ERP-style process logic
-* Business systems and automation thinking
-
----
-
-## Public Portfolio
-
-### Quant / Trading Research
-
-* [decision-alpha-lab](https://github.com/bsAmirHeydar/decision-alpha-lab)
-  Python/MQL research framework for systematic trading, market regimes, risk control, and edge monitoring.
-
-* [breakout-micro-following](https://github.com/bsAmirHeydar/breakout-micro-following)
-  MQL5 breakout-following research system focused on market behavior, execution logic, and structured entries.
-
-* [pullback-trading](https://github.com/bsAmirHeydar/pullback-trading)
-  MQL5 pullback trading research system focused on rule-based entries, order logic, and chart-based validation.
-
-* [micro-structure](https://github.com/bsAmirHeydar/micro-structure)
-  MQL5 market microstructure research tools for imbalance, regime behavior, and execution hypotheses.
-
-* [volatility-following](https://github.com/bsAmirHeydar/volatility-following)
-  MQL5 volatility and fat-tail research tools for regime-aware trading systems.
-
-* [divergence](https://github.com/bsAmirHeydar/divergence)
-  MQL5 divergence-based trading research system with session, candle, entry, and order modules.
-
-* [CLS63](https://github.com/bsAmirHeydar/CLS63)
-  Experimental MQL5 trading system for hook-based entries, risk-controlled execution, and visual review.
-
-### Software / Systems Projects
-
-* [Gartal-Inc](https://github.com/bsAmirHeydar/Gartal-Inc)
-  Software and business-system repository showing product thinking, systems design, and applied development.
-
-* [Aura](https://github.com/bsAmirHeydar/Aura)
-  Application/software repository showing general development and project-building experience.
-
-* [next](https://github.com/bsAmirHeydar/next)
-  Web/software repository showing development practice outside trading systems.
+- Investment strategy and strategy selection
+- Systematic trading research
+- Risk architecture and model risk
+- Capital allocation and capital scaling
+- Market regime analysis
+- Trend-following and asymmetric payoff design
+- Robustness testing and overfitting detection
+- Drawdown, tail-risk, correlation, and concentration analysis
+- Translating discretionary market insight into objective rules
+- Human + systematic decision architecture
 
 ---
 
 ## Research Philosophy
 
-My research approach is based on the idea that markets are not fully predictable, so trading systems should not rely on fragile prediction or over-optimized patterns.
+I do not treat a strong historical backtest as sufficient evidence of a durable trading edge.
 
-Instead, I focus on:
+My research starts with the underlying mechanism:
 
-* Robustness over overfitting
-* Risk-first strategy design
-* Limited downside and open-ended upside
-* Optionality and convex payoff structures
-* Market regime awareness
-* Hypothesis-first research
-* Monitoring the assumptions behind an edge
-* Separating signal quality from execution and risk logic
+1. **What is the hypothesis?**  
+   What structural, behavioral, execution, or market-mechanism reason should make the edge exist?
 
-The goal is not to claim certainty in markets. The goal is to design decision frameworks that can survive uncertainty, identify when assumptions change, and reduce emotional decision-making.
+2. **What assumptions are hidden inside it?**  
+   Which conditions were present in the profitable sample but may not persist?
+
+3. **What makes the strategy fragile?**  
+   Regime dependence, parameter sensitivity, liquidity, execution cost, leverage, crowding, concentration, and model complexity all matter.
+
+4. **Does the idea survive outside the original sample?**  
+   I care about out-of-sample behavior, walk-forward analysis, parameter sensitivity, cross-market testing, stress testing, Monte Carlo analysis, and regime testing.
+
+5. **How should risk and capital respond?**  
+   Position sizing, exposure, portfolio interaction, drawdown behavior, and capital scaling are part of the strategy itself—not an afterthought.
+
+The objective is not to predict every market move. It is to build decision systems that can survive uncertainty, recognize when assumptions are failing, limit downside, and retain upside when the market confirms the thesis.
+
+---
+
+## Human + Systematic Decision-Making
+
+I prefer a hybrid architecture rather than fully discretionary or fully automated decision-making.
+
+Humans are strongest at framing problems, recognizing context, challenging assumptions, generating hypotheses, and understanding when a model may be answering the wrong question.
+
+Systematic execution is strongest where consistency matters: execution rules, sizing, exposure control, portfolio constraints, monitoring, and repeatable risk processes.
+
+My interest is in designing the boundary between those two layers so that automation removes avoidable human fragility without replacing judgment where context matters most.
+
+---
+
+## Selected Research Projects
+
+### [Decision Alpha Lab](https://github.com/bsAmirHeydar/decision-alpha-lab)
+
+My primary quantitative research environment for hypothesis-driven strategy research, robustness analysis, market-regime work, risk logic, and systematic decision architecture.
+
+The project separates **research assumptions**, **strategy logic**, **risk/execution logic**, and **implementation authority** so that a statistically attractive result cannot silently become a capital decision without review.
+
+Research themes include:
+
+- Why an edge should exist
+- Overfitting and hidden assumptions
+- Regime dependence
+- Drawdown interpretation
+- Parameter sensitivity
+- Strategy failure analysis
+- Risk and execution separation
+- Monitoring whether an edge is still behaving as expected
+
+### [Breakout Micro Following](https://github.com/bsAmirHeydar/breakout-micro-following)
+
+Experimental breakout / micro trend-following research system with ATR-based risk logic, asymmetric payoff design, modular execution, and portfolio components.
+
+### [Volatility Following](https://github.com/bsAmirHeydar/volatility-following)
+
+Research toolkit for volatility regimes, fat tails, kurtosis, event structure, and volatility-aware systematic trading logic.
+
+### [Desk — Fundamental Alpha Lab](https://github.com/bsAmirHeydar/Desk)
+
+An AI-assisted fundamental research environment designed to turn a broad market or asset request into a structured evidence-gathering and analytical workflow.
+
+### Additional Experiments
+
+- [pullback-trading](https://github.com/bsAmirHeydar/pullback-trading)
+- [micro-structure](https://github.com/bsAmirHeydar/micro-structure)
+- [divergence](https://github.com/bsAmirHeydar/divergence)
+
+These repositories represent research experiments rather than claims of production-ready or guaranteed-profitable trading strategies.
+
+---
+
+## Markets & Research Focus
+
+My strongest discretionary market experience is **intraday trading**, particularly **gold**, alongside research across equities, forex, and commodities.
+
+Trend-following is the strategy family I find most structurally compelling, although I have also researched mean-reversion, breakout, volatility, divergence, regime-adaptive, and counter-trend ideas.
+
+I am especially interested in edges that do not depend entirely on other participants remaining uninformed. The more an edge comes from durable market structure, risk transfer, behavioral constraints, or unavoidable market mechanics, the more interesting it becomes for scalable capital.
+
+---
+
+## Research & Implementation Tools
+
+- Python for research, prototyping, data analysis, and backtesting
+- AI-assisted development for implementation, debugging, iteration, and research tooling
+- Pandas / NumPy / SciPy
+- MQL4 / MQL5 and MetaTrader research workflows
+- PostgreSQL
+- Docker
+- Git / GitHub
+- Backtesting, strategy validation, and historical-data workflows
+
+I treat technology as an implementation and validation layer around the investment logic—not as the source of an edge by itself.
+
+---
+
+## Leadership & Decision Orientation
+
+My preferred role is closer to **investment strategy, strategy evaluation, research direction, risk ownership, and capital allocation** than to pure software implementation.
+
+I am particularly interested in environments where I can:
+
+- challenge research assumptions before capital is committed;
+- compare competing strategies and models;
+- identify hidden fragility and model risk;
+- help direct research resources toward higher-value questions;
+- define what should be discretionary versus systematic;
+- contribute to portfolio construction and capital-allocation decisions;
+- be evaluated by the quality of decisions and investment outcomes rather than coding volume alone.
+
+My longer-term direction is toward responsibility for investment decisions and capital, with strong quantitative and engineering teams supporting research and implementation.
 
 ---
 
 ## Background
 
-I started programming around the age of 12 with languages such as C++ and Python. Over time, I became deeply interested in technology, systems, mathematics, probability, statistics, and algorithmic problem-solving.
+I have been independently studying and building around markets, trading systems, and quantitative research since approximately 2021.
 
-I later applied systems thinking in real business environments, including ERP-style process logic, marketing systems, customer acquisition workflows, and repeatable growth systems.
+My work has been self-directed: building research tools, testing market hypotheses, developing trading systems, studying failure modes, and refining a trading philosophy around uncertainty, robustness, survival, and asymmetric opportunity.
 
-Around five years ago, I began trading with a research-first mindset. I built early backtesting tools in Python, tested rule-based and indicator-driven models, and then moved into MQL4/MQL5 development, where I built and tested Expert Advisors, indicators, and trading tools.
-
-My current focus is building stronger research infrastructure around systematic trading, market regimes, risk management, and hypothesis-based alpha validation.
-
----
-
-## Target Roles
-
-I am open to remote opportunities in:
-
-* Quant Researcher
-* Quantitative Researcher
-* Algorithmic Trading Researcher
-* Systematic Trading Researcher
-* Quant Developer / Research Engineer
-* Trading Systems Developer
-* Python Research Developer
-* MQL4 / MQL5 Developer
-* Financial Data Analyst
+I have also led a five-person team in a non-trading business context, which gave me practical experience with team direction, systems thinking, and execution management.
 
 ---
 
 ## Contact
 
-**Email:** [bs.amir.heydar@gmail.com](mailto:bs.amir.heydar@gmail.com)
-**GitHub:** [github.com/bsAmirHeydar](https://github.com/bsAmirHeydar)
-**CV:** [Amir Hosein Heydar — Quant Researcher CV](https://github.com/bsAmirHeydar/bsAmirHeydar/blob/main/assets/Amir_Hosein_Heydar_Quant_Researcher_CV.pdf)
+**Amir Hosein Heydar**  
+Email: [bs.amir.heydar@gmail.com](mailto:bs.amir.heydar@gmail.com)  
+GitHub: [github.com/bsAmirHeydar](https://github.com/bsAmirHeydar)  
+LinkedIn: [linkedin.com/in/amir-hosein-heydar-9a4397418](https://www.linkedin.com/in/amir-hosein-heydar-9a4397418)
