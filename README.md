@@ -49,7 +49,7 @@ Research toolkit for volatility regimes, fat tails, kurtosis, event structure, a
 
 ### [Desk — Fundamental Alpha Lab](https://github.com/bsAmirHeydar/Desk)
 
-AI-augmented fundamental research workspace for structured evidence gathering, market analysis, and repeatable investment-research workflows.
+Fundamental research workspace for structured evidence gathering, market analysis, and repeatable investment-research workflows.
 
 ## Research Philosophy
 
