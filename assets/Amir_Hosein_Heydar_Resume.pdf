@@ -1,0 +1,416 @@
+%PDF-1.4
+%!!!! ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:bs.amir.heydar@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 183 706 300 717 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/amir-hosein-heydar-9a4397418)
+>> /Border [ 0 0 0 ] /Rect [ 314 706 360 717 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/bsAmirHeydar)
+>> /Border [ 0 0 0 ] /Rect [ 372 706 410 717 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R ] /Contents 14 0 R /MediaBox [ 0 0 612 792 ] /Parent 13 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/bsAmirHeydar/decision-alpha-lab)
+>> /Border [ 0 0 0 ] /Rect [ 40 625.4 235 637.4 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/bsAmirHeydar/Desk)
+>> /Border [ 0 0 0 ] /Rect [ 40 554.6 185 566.6 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Annots [ 8 0 R 9 0 R ] /Contents 15 0 R /MediaBox [ 0 0 612 792 ] /Parent 13 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/PageMode /UseNone /Pages 13 0 R /Type /Catalog
+>>
+endobj
+12 0 obj
+<<
+/Author (Amir Hosein Heydar) /CreationDate (D:20260915114040+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260915114040+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Systematic Trading Research | Strategy Robustness & Portfolio Risk) /Title (Amir Hosein Heydar - Resume) /Trapped /False
+>>
+endobj
+13 0 obj
+<<
+/Count 2 /Kids [ 7 0 R 10 0 R ] /Type /Pages
+>>
+endobj
+14 0 obj
+<<
+/Length 6657
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.090196 .211765 .364706 rg
+BT /F2 18 Tf 21.6 TL ET
+BT 1 0 0 1 205.497 744 Tm (AMIR HOSEIN HEYDAR) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F2 10.2 Tf 12.24 TL ET
+BT 1 0 0 1 139.6278 726 Tm (Systematic Trading Research | Strategy Robustness & Portfolio Risk) Tj T* ET
+.356863 .4 .439216 rg
+BT /F1 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 214.356 710 Tm (bs.amir.heydar@gmail.com  |  LinkedIn  |  GitHub) Tj T* ET
+.090196 .211765 .364706 rg
+BT /F2 10.2 Tf 12.24 TL ET
+BT 1 0 0 1 40 684 Tm (PROFILE) Tj T* ET
+.721569 .760784 .8 RG
+.55 w
+n 40 680 m 572 680 l S
+.12549 .145098 .168627 rg
+BT /F1 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 40 667 Tm (Independent systematic trading researcher with approximately five years of self-directed market research. Focuses on strategy evaluation,) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 40 656.4 Tm (robustness, risk architecture, and capital-allocation decisions under uncertainty. Uses quantitative tooling to turn market hypotheses into) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 40 645.8 Tm (testable systems; strongest discretionary market experience is intraday gold, with broader research across equities, FX, and commodities.) Tj T* ET
+.090196 .211765 .364706 rg
+BT /F2 10.2 Tf 12.24 TL ET
+BT 1 0 0 1 40 630.2 Tm (CORE INVESTMENT & RESEARCH CAPABILITIES) Tj T* ET
+.721569 .760784 .8 RG
+.55 w
+n 40 626.2 m 572 626.2 l S
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 42 613.2 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 52 613.2 Tm (Strategy evaluation: starts with why an edge should exist, then challenges hidden assumptions, regime dependence, capacity, costs, and) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 52 603.2 Tm (portfolio interaction.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 42 591.2 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 52 591.2 Tm (Risk architecture: evaluates drawdown, volatility, correlation, concentration, liquidity, tail risk, leverage, execution, model risk, and operational) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 52 581.2 Tm (fragility.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 42 569.2 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 52 569.2 Tm (Capital allocation: applies dynamic exposure, volatility targeting, capital scaling, and context-aware concentration/diversification rather than) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 52 559.2 Tm (diversification as an end in itself.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 42 547.2 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 52 547.2 Tm (Validation: out-of-sample, walk-forward, Monte Carlo, parameter sensitivity, stress testing, cross-market validation, and regime testing.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 42 535.2 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 52 535.2 Tm (Hybrid decision systems: human judgment for context, research questions, and strategy selection; systematic processes for repeatable) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.2 Tf 9.84 TL ET
+BT 1 0 0 1 52 525.2 Tm (execution, sizing, monitoring, and risk control.) Tj T* ET
+.090196 .211765 .364706 rg
+BT /F2 10.2 Tf 12.24 TL ET
+BT 1 0 0 1 40 509.2 Tm (EXPERIENCE) Tj T* ET
+.721569 .760784 .8 RG
+.55 w
+n 40 505.2 m 572 505.2 l S
+.12549 .145098 .168627 rg
+BT /F2 9.1 Tf 10.92 TL ET
+BT 1 0 0 1 40 492.2 Tm (Independent Systematic Trading Researcher | Self-Directed) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F2 8.1 Tf 9.72 TL ET
+BT 1 0 0 1 515 492.2 Tm (2021 - Present) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 42 477.2 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 477.2 Tm (Built an end-to-end research process spanning market observation, hypothesis formation, strategy logic, quantitative validation, risk design,) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 467.5 Tm (execution assumptions, and post-failure review.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 42 455.8 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 455.8 Tm (Used a research universe of 10,000+ strategy/hypothesis variations primarily as a falsification and comparison space - not a search for the best) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 446.1 Tm (historical equity curve - across trend, mean-reversion, breakout, volatility, and regime-adaptive families.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 42 434.4 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 434.4 Tm (Developed a failure-first process: when a strategy breaks across a market, timeframe, or regime, investigates which assumption failed before) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 424.7 Tm (adding filters, parameters, or complexity.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 42 413 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 413 Tm (Evaluates capital suitability through drawdown/recovery, payoff asymmetry, tail behavior, capacity, turnover, costs, correlation, and regime) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 403.3 Tm (stability rather than win rate alone.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 42 391.6 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 391.6 Tm (Personal-capital and proprietary-trading experience; building a live/forward record while keeping realized results clearly separated from research) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 381.9 Tm (backtests.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 42 370.2 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 370.2 Tm (Led a five-person marketing team outside trading, with hands-on experience in team direction, systems building, and execution accountability.) Tj T* ET
+.721569 .760784 .8 RG
+.4 w
+n 40 29 m 572 29 l S
+.356863 .4 .439216 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 161.6184 18 Tm (Amir Hosein Heydar | Systematic Trading Research / Strategy Robustness & Portfolio Risk) Tj T* ET
+ 
+endstream
+endobj
+15 0 obj
+<<
+/Length 6280
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.090196 .211765 .364706 rg
+BT /F2 10.2 Tf 12.24 TL ET
+BT 1 0 0 1 40 744 Tm (SELECTED RESEARCH FINDINGS) Tj T* ET
+.721569 .760784 .8 RG
+.55 w
+n 40 740 m 572 740 l S
+.12549 .145098 .168627 rg
+BT /F1 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 42 727 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 52 727 Tm (Trend-following robustness: in my research universe, trend/continuation ideas remained more coherent than many mean-reversion and) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 52 716.9 Tm (counter-trend variants as market, timeframe, regime, and parameter assumptions changed.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 42 704.8 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 52 704.8 Tm (Prediction complexity: moved increasingly toward confirmation/participation frameworks after repeated cases where added predictive) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 52 694.7 Tm (complexity improved historical fit but increased hidden fragility and research-complexity cost.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 42 682.6 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 52 682.6 Tm (Failure as data: treats cross-market, cross-timeframe, and regime failure as evidence about hidden assumptions; the first response is) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.3 Tf 9.96 TL ET
+BT 1 0 0 1 52 672.5 Tm (diagnosis and possible rejection, not automatic re-optimization.) Tj T* ET
+.090196 .211765 .364706 rg
+BT /F2 10.2 Tf 12.24 TL ET
+BT 1 0 0 1 40 657.4 Tm (SELECTED PROJECTS) Tj T* ET
+.721569 .760784 .8 RG
+.55 w
+n 40 653.4 m 572 653.4 l S
+.12549 .145098 .168627 rg
+BT /F2 9.1 Tf 10.92 TL ET
+BT 1 0 0 1 40 640.4 Tm (Decision Alpha Lab | Public quantitative research platform) Tj T* ET
+.090196 .211765 .364706 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 627.4 Tm (github.com/bsAmirHeydar/decision-alpha-lab) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 42 614.4 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 614.4 Tm (Public hypothesis-driven research platform for strategy validation, regime analysis, risk/execution governance, and explicit separation of research) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 604.7 Tm (evidence from capital authority.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 42 593 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 593 Tm (Published QA snapshot reports 9,732 tests collected, 0 pytest collection errors, and explicit documentation of accepted gates and unresolved) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 583.3 Tm (historical blockers rather than presenting an artificially clean status.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F2 9.1 Tf 10.92 TL ET
+BT 1 0 0 1 40 569.6 Tm (Desk | Fundamental research workspace) Tj T* ET
+.090196 .211765 .364706 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 556.6 Tm (github.com/bsAmirHeydar/Desk) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 42 543.6 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 543.6 Tm (Structured evidence-gathering and analytical workflow designed to make fundamental research repeatable across new markets and assets.) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 42 531.9 Tm (-) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 531.9 Tm (Separates research question, evidence retrieval, method routing, inference, and final judgment; automation supports the process without receiving) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 52 522.2 Tm (autonomous capital authority.) Tj T* ET
+.090196 .211765 .364706 rg
+BT /F2 10.2 Tf 12.24 TL ET
+BT 1 0 0 1 40 507.5 Tm (RESEARCH & TECHNICAL TOOLKIT) Tj T* ET
+.721569 .760784 .8 RG
+.55 w
+n 40 503.5 m 572 503.5 l S
+.090196 .211765 .364706 rg
+BT /F2 8.1 Tf 9.72 TL ET
+BT 1 0 0 1 40 490.5 Tm (Markets) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 140 490.5 Tm (Gold \(primary\), Equities, FX, Commodities; strongest horizon: intraday/day trading) Tj T* ET
+.090196 .211765 .364706 rg
+BT /F2 8.1 Tf 9.72 TL ET
+BT 1 0 0 1 40 476.5 Tm (Research) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 140 476.5 Tm (Trend/momentum, mean reversion, breakout, volatility, regime-adaptive systems, discretionary-to-systematic translation) Tj T* ET
+.090196 .211765 .364706 rg
+BT /F2 8.1 Tf 9.72 TL ET
+BT 1 0 0 1 40 462.5 Tm (Quant / Risk) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 140 462.5 Tm (Expected value, hypothesis testing, fat tails, non-normal returns; CAGR, max drawdown, Calmar, profit factor, skew/tail,) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 140 452.9 Tm (turnover, capacity, regime stability) Tj T* ET
+.090196 .211765 .364706 rg
+BT /F2 8.1 Tf 9.72 TL ET
+BT 1 0 0 1 40 440.3 Tm (Technology) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 140 440.3 Tm (Python for quantitative research and prototyping; Pandas, NumPy, SciPy, PostgreSQL, Docker; backtesting, data) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.05 Tf 9.66 TL ET
+BT 1 0 0 1 140 430.7 Tm (pipelines, APIs, testing, and research tooling; AI-augmented development workflow) Tj T* ET
+.090196 .211765 .364706 rg
+BT /F2 10.2 Tf 12.24 TL ET
+BT 1 0 0 1 40 416.1 Tm (EDUCATION) Tj T* ET
+.721569 .760784 .8 RG
+.55 w
+n 40 412.1 m 572 412.1 l S
+.12549 .145098 .168627 rg
+BT /F2 8.7 Tf 10.44 TL ET
+BT 1 0 0 1 40 399.1 Tm (High School Diploma) Tj T* ET
+.12549 .145098 .168627 rg
+BT /F1 8.35 Tf 10.02 TL ET
+BT 1 0 0 1 40 385.1 Tm (Independent study and project-based research in systematic trading, market structure, risk, probability/statistics, and algorithmic systems.) Tj T* ET
+.721569 .760784 .8 RG
+.4 w
+n 40 29 m 572 29 l S
+.356863 .4 .439216 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 161.6184 18 Tm (Amir Hosein Heydar | Systematic Trading Research / Strategy Robustness & Portfolio Risk) Tj T* ET
+ 
+endstream
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000484 00000 n 
+0000000672 00000 n 
+0000000835 00000 n 
+0000001060 00000 n 
+0000001245 00000 n 
+0000001416 00000 n 
+0000001636 00000 n 
+0000001706 00000 n 
+0000002051 00000 n 
+0000002118 00000 n 
+0000008827 00000 n 
+trailer
+<<
+/ID 
+[<2bc37a48a54ed5bfd54537038946751d><2bc37a48a54ed5bfd54537038946751d>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 12 0 R
+/Root 11 0 R
+/Size 16
+>>
+startxref
+15159
+%%EOF
