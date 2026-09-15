@@ -2,6 +2,8 @@
 
 **Investment Strategy | Systematic Trading Research | Risk & Capital Allocation**
 
+[Resume (PDF)](https://github.com/bsAmirHeydar/bsAmirHeydar/blob/main/assets/Amir_Hosein_Heydar_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/amir-hosein-heydar-9a4397418) | [Email](mailto:bs.amir.heydar@gmail.com)
+
 Independent trading and investment researcher focused on a simple question:
 
 > **Why should an edge exist, what can break it, and how much capital should be trusted to it?**
@@ -82,6 +84,7 @@ I have also led a five-person team in a non-trading business context, providing 
 ## Contact
 
 **Amir Hosein Heydar**  
+Resume: [Amir_Hosein_Heydar_Resume.pdf](https://github.com/bsAmirHeydar/bsAmirHeydar/blob/main/assets/Amir_Hosein_Heydar_Resume.pdf)  
 Email: [bs.amir.heydar@gmail.com](mailto:bs.amir.heydar@gmail.com)  
 GitHub: [github.com/bsAmirHeydar](https://github.com/bsAmirHeydar)  
 LinkedIn: [linkedin.com/in/amir-hosein-heydar-9a4397418](https://www.linkedin.com/in/amir-hosein-heydar-9a4397418)
