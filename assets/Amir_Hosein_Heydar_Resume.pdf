@@ -1,8 +1,8 @@
 %PDF-1.4
-%!!!! ReportLab Generated PDF document (opensource)
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
 >>
 endobj
 2 0 obj
@@ -12,57 +12,76 @@ endobj
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (mailto:bs.amir.heydar@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 183 706 300 717 ] /Subtype /Link /Type /Annot
+/BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/amir-hosein-heydar-9a4397418)
->> /Border [ 0 0 0 ] /Rect [ 314 706 360 717 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (mailto:bs.amir.heydar@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 214.181 695.94 315.3184 706.86 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/bsAmirHeydar)
->> /Border [ 0 0 0 ] /Rect [ 372 706 410 717 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/amir-hosein-heydar-9a4397418)
+>> /Border [ 0 0 0 ] /Rect [ 326.2384 695.94 359.599 706.86 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R ] /Contents 14 0 R /MediaBox [ 0 0 612 792 ] /Parent 13 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/bsAmirHeydar)
+>> /Border [ 0 0 0 ] /Rect [ 370.519 695.94 397.819 706.86 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 5 0 R 6 0 R 7 0 R ] /Contents 17 0 R /MediaBox [ 0 0 612 792 ] /Parent 16 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
 
 >> /Type /Page
->>
-endobj
-8 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/bsAmirHeydar/decision-alpha-lab)
->> /Border [ 0 0 0 ] /Rect [ 40 625.4 235 637.4 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/bsAmirHeydar/Desk)
->> /Border [ 0 0 0 ] /Rect [ 40 554.6 185 566.6 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/bsAmirHeydar/decision-alpha-lab)
+>> /Border [ 0 0 0 ] /Rect [ 47.76 598.7038 210.7239 609.3038 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
-/Annots [ 8 0 R 9 0 R ] /Contents 15 0 R /MediaBox [ 0 0 612 792 ] /Parent 13 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/bsAmirHeydar/breakout-micro-following)
+>> /Border [ 0 0 0 ] /Rect [ 47.76 518.2038 237.2739 528.8038 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/bsAmirHeydar/volatility-following)
+>> /Border [ 0 0 0 ] /Rect [ 47.76 465.1038 214.6798 475.7038 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/bsAmirHeydar/Desk)
+>> /Border [ 0 0 0 ] /Rect [ 47.76 424.0038 163.5357 434.6038 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Annots [ 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 18 0 R /MediaBox [ 0 0 612 792 ] /Parent 16 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -70,347 +89,67 @@ endobj
 >> /Type /Page
 >>
 endobj
-11 0 obj
-<<
-/PageMode /UseNone /Pages 13 0 R /Type /Catalog
->>
-endobj
-12 0 obj
-<<
-/Author (Amir Hosein Heydar) /CreationDate (D:20260915114040+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260915114040+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (Systematic Trading Research | Strategy Robustness & Portfolio Risk) /Title (Amir Hosein Heydar - Resume) /Trapped /False
->>
-endobj
-13 0 obj
-<<
-/Count 2 /Kids [ 7 0 R 10 0 R ] /Type /Pages
->>
-endobj
 14 0 obj
 <<
-/Length 6657
+/PageMode /UseNone /Pages 16 0 R /Type /Catalog
 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-.090196 .211765 .364706 rg
-BT /F2 18 Tf 21.6 TL ET
-BT 1 0 0 1 205.497 744 Tm (AMIR HOSEIN HEYDAR) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F2 10.2 Tf 12.24 TL ET
-BT 1 0 0 1 139.6278 726 Tm (Systematic Trading Research | Strategy Robustness & Portfolio Risk) Tj T* ET
-.356863 .4 .439216 rg
-BT /F1 8.4 Tf 10.08 TL ET
-BT 1 0 0 1 214.356 710 Tm (bs.amir.heydar@gmail.com  |  LinkedIn  |  GitHub) Tj T* ET
-.090196 .211765 .364706 rg
-BT /F2 10.2 Tf 12.24 TL ET
-BT 1 0 0 1 40 684 Tm (PROFILE) Tj T* ET
-.721569 .760784 .8 RG
-.55 w
-n 40 680 m 572 680 l S
-.12549 .145098 .168627 rg
-BT /F1 8.7 Tf 10.44 TL ET
-BT 1 0 0 1 40 667 Tm (Independent systematic trading researcher with approximately five years of self-directed market research. Focuses on strategy evaluation,) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.7 Tf 10.44 TL ET
-BT 1 0 0 1 40 656.4 Tm (robustness, risk architecture, and capital-allocation decisions under uncertainty. Uses quantitative tooling to turn market hypotheses into) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.7 Tf 10.44 TL ET
-BT 1 0 0 1 40 645.8 Tm (testable systems; strongest discretionary market experience is intraday gold, with broader research across equities, FX, and commodities.) Tj T* ET
-.090196 .211765 .364706 rg
-BT /F2 10.2 Tf 12.24 TL ET
-BT 1 0 0 1 40 630.2 Tm (CORE INVESTMENT & RESEARCH CAPABILITIES) Tj T* ET
-.721569 .760784 .8 RG
-.55 w
-n 40 626.2 m 572 626.2 l S
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 42 613.2 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 52 613.2 Tm (Strategy evaluation: starts with why an edge should exist, then challenges hidden assumptions, regime dependence, capacity, costs, and) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 52 603.2 Tm (portfolio interaction.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 42 591.2 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 52 591.2 Tm (Risk architecture: evaluates drawdown, volatility, correlation, concentration, liquidity, tail risk, leverage, execution, model risk, and operational) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 52 581.2 Tm (fragility.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 42 569.2 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 52 569.2 Tm (Capital allocation: applies dynamic exposure, volatility targeting, capital scaling, and context-aware concentration/diversification rather than) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 52 559.2 Tm (diversification as an end in itself.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 42 547.2 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 52 547.2 Tm (Validation: out-of-sample, walk-forward, Monte Carlo, parameter sensitivity, stress testing, cross-market validation, and regime testing.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 42 535.2 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 52 535.2 Tm (Hybrid decision systems: human judgment for context, research questions, and strategy selection; systematic processes for repeatable) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 52 525.2 Tm (execution, sizing, monitoring, and risk control.) Tj T* ET
-.090196 .211765 .364706 rg
-BT /F2 10.2 Tf 12.24 TL ET
-BT 1 0 0 1 40 509.2 Tm (EXPERIENCE) Tj T* ET
-.721569 .760784 .8 RG
-.55 w
-n 40 505.2 m 572 505.2 l S
-.12549 .145098 .168627 rg
-BT /F2 9.1 Tf 10.92 TL ET
-BT 1 0 0 1 40 492.2 Tm (Independent Systematic Trading Researcher | Self-Directed) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F2 8.1 Tf 9.72 TL ET
-BT 1 0 0 1 515 492.2 Tm (2021 - Present) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 42 477.2 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 477.2 Tm (Built an end-to-end research process spanning market observation, hypothesis formation, strategy logic, quantitative validation, risk design,) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 467.5 Tm (execution assumptions, and post-failure review.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 42 455.8 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 455.8 Tm (Used a research universe of 10,000+ strategy/hypothesis variations primarily as a falsification and comparison space - not a search for the best) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 446.1 Tm (historical equity curve - across trend, mean-reversion, breakout, volatility, and regime-adaptive families.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 42 434.4 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 434.4 Tm (Developed a failure-first process: when a strategy breaks across a market, timeframe, or regime, investigates which assumption failed before) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 424.7 Tm (adding filters, parameters, or complexity.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 42 413 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 413 Tm (Evaluates capital suitability through drawdown/recovery, payoff asymmetry, tail behavior, capacity, turnover, costs, correlation, and regime) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 403.3 Tm (stability rather than win rate alone.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 42 391.6 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 391.6 Tm (Personal-capital and proprietary-trading experience; building a live/forward record while keeping realized results clearly separated from research) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 381.9 Tm (backtests.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 42 370.2 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 370.2 Tm (Led a five-person marketing team outside trading, with hands-on experience in team direction, systems building, and execution accountability.) Tj T* ET
-.721569 .760784 .8 RG
-.4 w
-n 40 29 m 572 29 l S
-.356863 .4 .439216 rg
-BT /F1 7.2 Tf 8.64 TL ET
-BT 1 0 0 1 161.6184 18 Tm (Amir Hosein Heydar | Systematic Trading Research / Strategy Robustness & Portfolio Risk) Tj T* ET
- 
-endstream
 endobj
 15 0 obj
 <<
-/Length 6280
+/Author (Amir Hosein Heydar) /CreationDate (D:20260915114746+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260915114746+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Systematic Trading Research | Strategy Robustness & Portfolio Risk) /Title (Amir Hosein Heydar - Resume) /Trapped /False
+>>
+endobj
+16 0 obj
+<<
+/Count 2 /Kids [ 8 0 R 13 0 R ] /Type /Pages
+>>
+endobj
+17 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2621
 >>
 stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-.090196 .211765 .364706 rg
-BT /F2 10.2 Tf 12.24 TL ET
-BT 1 0 0 1 40 744 Tm (SELECTED RESEARCH FINDINGS) Tj T* ET
-.721569 .760784 .8 RG
-.55 w
-n 40 740 m 572 740 l S
-.12549 .145098 .168627 rg
-BT /F1 8.3 Tf 9.96 TL ET
-BT 1 0 0 1 42 727 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.3 Tf 9.96 TL ET
-BT 1 0 0 1 52 727 Tm (Trend-following robustness: in my research universe, trend/continuation ideas remained more coherent than many mean-reversion and) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.3 Tf 9.96 TL ET
-BT 1 0 0 1 52 716.9 Tm (counter-trend variants as market, timeframe, regime, and parameter assumptions changed.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.3 Tf 9.96 TL ET
-BT 1 0 0 1 42 704.8 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.3 Tf 9.96 TL ET
-BT 1 0 0 1 52 704.8 Tm (Prediction complexity: moved increasingly toward confirmation/participation frameworks after repeated cases where added predictive) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.3 Tf 9.96 TL ET
-BT 1 0 0 1 52 694.7 Tm (complexity improved historical fit but increased hidden fragility and research-complexity cost.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.3 Tf 9.96 TL ET
-BT 1 0 0 1 42 682.6 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.3 Tf 9.96 TL ET
-BT 1 0 0 1 52 682.6 Tm (Failure as data: treats cross-market, cross-timeframe, and regime failure as evidence about hidden assumptions; the first response is) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.3 Tf 9.96 TL ET
-BT 1 0 0 1 52 672.5 Tm (diagnosis and possible rejection, not automatic re-optimization.) Tj T* ET
-.090196 .211765 .364706 rg
-BT /F2 10.2 Tf 12.24 TL ET
-BT 1 0 0 1 40 657.4 Tm (SELECTED PROJECTS) Tj T* ET
-.721569 .760784 .8 RG
-.55 w
-n 40 653.4 m 572 653.4 l S
-.12549 .145098 .168627 rg
-BT /F2 9.1 Tf 10.92 TL ET
-BT 1 0 0 1 40 640.4 Tm (Decision Alpha Lab | Public quantitative research platform) Tj T* ET
-.090196 .211765 .364706 rg
-BT /F1 8 Tf 9.6 TL ET
-BT 1 0 0 1 40 627.4 Tm (github.com/bsAmirHeydar/decision-alpha-lab) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 42 614.4 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 614.4 Tm (Public hypothesis-driven research platform for strategy validation, regime analysis, risk/execution governance, and explicit separation of research) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 604.7 Tm (evidence from capital authority.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 42 593 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 593 Tm (Published QA snapshot reports 9,732 tests collected, 0 pytest collection errors, and explicit documentation of accepted gates and unresolved) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 583.3 Tm (historical blockers rather than presenting an artificially clean status.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F2 9.1 Tf 10.92 TL ET
-BT 1 0 0 1 40 569.6 Tm (Desk | Fundamental research workspace) Tj T* ET
-.090196 .211765 .364706 rg
-BT /F1 8 Tf 9.6 TL ET
-BT 1 0 0 1 40 556.6 Tm (github.com/bsAmirHeydar/Desk) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 42 543.6 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 543.6 Tm (Structured evidence-gathering and analytical workflow designed to make fundamental research repeatable across new markets and assets.) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 42 531.9 Tm (-) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 531.9 Tm (Separates research question, evidence retrieval, method routing, inference, and final judgment; automation supports the process without receiving) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 52 522.2 Tm (autonomous capital authority.) Tj T* ET
-.090196 .211765 .364706 rg
-BT /F2 10.2 Tf 12.24 TL ET
-BT 1 0 0 1 40 507.5 Tm (RESEARCH & TECHNICAL TOOLKIT) Tj T* ET
-.721569 .760784 .8 RG
-.55 w
-n 40 503.5 m 572 503.5 l S
-.090196 .211765 .364706 rg
-BT /F2 8.1 Tf 9.72 TL ET
-BT 1 0 0 1 40 490.5 Tm (Markets) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 140 490.5 Tm (Gold \(primary\), Equities, FX, Commodities; strongest horizon: intraday/day trading) Tj T* ET
-.090196 .211765 .364706 rg
-BT /F2 8.1 Tf 9.72 TL ET
-BT 1 0 0 1 40 476.5 Tm (Research) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 140 476.5 Tm (Trend/momentum, mean reversion, breakout, volatility, regime-adaptive systems, discretionary-to-systematic translation) Tj T* ET
-.090196 .211765 .364706 rg
-BT /F2 8.1 Tf 9.72 TL ET
-BT 1 0 0 1 40 462.5 Tm (Quant / Risk) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 140 462.5 Tm (Expected value, hypothesis testing, fat tails, non-normal returns; CAGR, max drawdown, Calmar, profit factor, skew/tail,) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 140 452.9 Tm (turnover, capacity, regime stability) Tj T* ET
-.090196 .211765 .364706 rg
-BT /F2 8.1 Tf 9.72 TL ET
-BT 1 0 0 1 40 440.3 Tm (Technology) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 140 440.3 Tm (Python for quantitative research and prototyping; Pandas, NumPy, SciPy, PostgreSQL, Docker; backtesting, data) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.05 Tf 9.66 TL ET
-BT 1 0 0 1 140 430.7 Tm (pipelines, APIs, testing, and research tooling; AI-augmented development workflow) Tj T* ET
-.090196 .211765 .364706 rg
-BT /F2 10.2 Tf 12.24 TL ET
-BT 1 0 0 1 40 416.1 Tm (EDUCATION) Tj T* ET
-.721569 .760784 .8 RG
-.55 w
-n 40 412.1 m 572 412.1 l S
-.12549 .145098 .168627 rg
-BT /F2 8.7 Tf 10.44 TL ET
-BT 1 0 0 1 40 399.1 Tm (High School Diploma) Tj T* ET
-.12549 .145098 .168627 rg
-BT /F1 8.35 Tf 10.02 TL ET
-BT 1 0 0 1 40 385.1 Tm (Independent study and project-based research in systematic trading, market structure, risk, probability/statistics, and algorithmic systems.) Tj T* ET
-.721569 .760784 .8 RG
-.4 w
-n 40 29 m 572 29 l S
-.356863 .4 .439216 rg
-BT /F1 7.2 Tf 8.64 TL ET
-BT 1 0 0 1 161.6184 18 Tm (Amir Hosein Heydar | Systematic Trading Research / Strategy Robustness & Portfolio Risk) Tj T* ET
- 
-endstream
+GauHL?$G!n&q0MXW2DfF/s=c]5VRIda2)9J3/ImHF(W_NQUY__a-)m59+^7Ha)=uD"&*Z)cGYQ8!97+\lLq>a\&?)"+(elD*8pJu/oMR\+(bmgTc:l8%`Yi5%i9+'qb]<SGNd#`0YmE:?pP4MT.b06p7d)!\a]ZOU$E.2LFDk$5AYeni8MOjm6g4MC%%0'%%=lc+S&#G"5Lm*_q9l:TU3$U28QNuF'1Kl_7,oYEp-fj;T#Ul65FMjFt)#CT)]pUVA)$DAHF[4;ctY[.ZE:H=huCHPa[qJ\V$lM=/IO%1%5^`=1VY89IcE%oCu+Kr<]f[;-^kFenk\$9Y&,km!8a:MX^+)*ZGOgPI)LFTbiZ8s!Vt"HoI^S05go",M1r?1H2&`)=BNoEQp&RN8@=,E;TWC4F%1@j$2C*:"rL7_f[l?'9P#q*B'$#h*.RfO,!'N$H&h!KEW(2>of0m`Y?qoq*=CAY_!=jpSiUoDZ\U;)V-^T%7\b0gmC0tgt6#mL-BBN@s)6E15so!:9b1QF5q<%OLqgZq9LhZ134+o[qQgnA`(6*d@Dg0762m_Kr=D8mCW?KbM-dG-c0;hc_2*N*Elgr;:]a:,>bZ="2_<e5CJ#;\Jmc4MA,_(+L>3lcU!5!^u-%,7/p_8j,c!#jUUN,,/ktsjX:`M',ok#&r;`5ZZs5@Ws+<5,L=E>GS%m]ZWp=GU8Z@l3.TeYCb4ChP9L`WJM0FuB$]_IiO!J^/Mq9T\H9KOC\:Qa,*D8#+ZBIG\A3VuJ.^JO8Ym1o.8n6tIM?A&JI=CdWJnWX"dl/0=q#ae_m9\gXGT4*Y"8%<<X-q4ZG^$!/c*8@'GA-G--mR&ALasO5q3L]n:Q9!PL9/o#[MIRPWK]\9DAB]nY3tF8d`./=F$9@W;sCZRV9<X<kGah=+W'B*H6ul-(ehEJ]PKu'ND?UY9B/Xd=Qu.HIo#G5-BU*!eUJepHUk:%[JS;q_aOXXZ-L<!X(X5$ACcnW+7=\-@bW6^C/+pXn#_np5eVZp-k`>7o%ICVXbn@^Jo7*n#'Z_]_cRD0RGm12acu$NZZ8Be*C5J^:M(*4h7'+-KBlf0a2GOG_q<6##Vl$@?:&Z?.[;Ei^O=S]b]1An6?8cmscmKCHWl7g@`-Sc1e%4WEHXd[>+nD\hs(_Dc]$]/VnM*$sKV[99C@FP^Pf['p,MYaF`%I/"'iq!]R"!f<dCMJQU'"5[1,m(',0N:Lq#R:Wep!j%5H2V9?I901\=$Gs^8V,n=YnqdE;rO3@D7O:BD>:9++J<Emt/NQMh-X?f*eOYu-\.)^n@Xo:2A=A>c#L0B[A4i)'U#4Ye>NoHg)Wd6+[Q=q'WI)h$mXCo-ocX;;?gRFg(PFTQ%6h@li7G+[#.6(2@1J)!B$LIHm.?uYh=neR5=F,ge<\4-Meq-J<B"t:@#V#GOFSM/;nJ(W='_PHF\WCqBa$AW6l6bU"$fYhKdb^8rh>f^?/?,>5K/ahTA=J&[`4mH"l*Ja:WcZb-0g&fUM!((:O3U(+`!Ag3/O9Tm>\C&ICT_q8YUZnl('Z(5@l]E@KtJRORi6Y=#YriH2Vl(41T4mD(uFE/Z`ll\48M"j*7&1;o7o;:Cqg40\%B2:C"KTDQ?inb<L"dNriFOZ:AtC$Cmio4pWX3`V/2E[?tm:Xfb%XMn(",:62Qff``N5JRmp-6[^3GfH'DkJk(,W3q3O7->SXPD\uPu":ad`oZEp2/HdMf,%it\!5FtWin#ju>d4i@el[)i544o9I2+>d8T)D;&^7CV(^!!e3npqn](A$h?>a@;_)V@1jc-&W6oaC@.<nSjF+ERCV0rN>"jtV&k@a6AOh\K`6mA"2h';cda@tk'rCF5:;n"DCUi1B.:FGA7iZD\/sf9>A8$qD?'hcoYX=#)9F&U$e.#V.`+V)>X_B$H6c&8m_(c&L)>7[dNH/8^+&c*ptYAnicYr_kV%W,2<<(2h;L`SHj!6+;=.O(u"28nW],*]k5D]THZMXr;onf%(5FL]^-SI#hN4fM3f-9_r!+RFh0qn)#-VQNn@F\<[mKF$^u#)CI6kE>#%l#n*=F2Uct_^fDZhaXfJBJ]oVYShJT5*<T$!M"cT`br%".W$lc?p?S,W#>(aNZpcdM@'_>eZ/pQRNY]'edg==-i/cLtT=VCXa)Z,3>2++*TE30K@[[UTd#DDrUu#M;)4J1eib/)I/>U;`)n,d"m[Y?nT#*BOe"XXI.R8cGaXsHppVF9R9"'dUAjcN2BcZP`-#(fnfP>CS4u8[LJL;UkVcLhR=HWsXJSQt5%Wo2uc4T5fB]-j8#Pd-UN]VUE3CP2$T/T5[V,ap.Fk6L("]upJG*L6H/J\W30#sc0CXM<S`A^]Z_]ae)FLnImGFj-['5kK$R7nF;U$LL.\YPugUT=fB%Qclr\YBtXmN.FP-46Z)c:XL*=P!U+ps*Rq_sAHm]L'3g4GWrnH>1W1>*<;_>rHR6#\ABN\n(paKilsQE_pEK&m!A[$tn$76P[[ca5@h$7&+BS$a'!5Ls:598G;Uj^&!lk@L_V*Y#J*G=^1Neo!8jJ"OG2C)juTW$!-Z)"j]=h%^&!C0N6J&e;p]r2H>*$Qt%(/4-/"dS^5=B,Z.RhP3a#$\G/9*7^hO~>endstream
+endobj
+18 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3072
+>>
+stream
+GauHM?$G!n&q0MXW2DZ"*Y:k5a@r0f2GQC#3<!=[lpG(tWIZ*`C8E60@8;:LhJ*@JD*5an4ioEd=mE0(<H[V.iR.`+?2GP:7))NsJ*N3_d<&-dn+\_&VoeShbCL=]?Jpmd3?3^-rXePtclIj_rVce@h&g1g]1t>[iLr%eUm-IMi-9_BCI0rbG%m"(kE+::42Xq%[PJ?)Z0r<kEI9tj"Cj1p^>3XbF%<CnqBM%`]@\s:c;CSMIF*[I)1@UI=;[cN6oV0@Pc6'26rP=>PqD3'(/gN58U\0!N@<mt7Fuid'kJ_MJpsCdD9BCaPbr4rh#9pp5ABsI[d+9u?CTl.I(!u235Gkc0cku;^`AIALU8Bira7_Z]LSh0aE(Up\:6ObGMnE3Y!YBuk@S`u3M&u@k^%8*3P%ER5c862-YF7aD]Tb#b7)u?]8[]'!8tK]#<q[mOIX[A?/4N]nlrm>b3\0XM*#bU6[WEols+fiCffJ:^joo<#l#OU&=99!%?Y_tdBV^:Hn<=?"2slQ!tT>/a:DS76(Q>>(m7#r_m$ki1GpqGHb_hmpZsBY]&gE`k0;m+Ju@'4RC,,W9\i9=a=`aj9L$s.WNllFf,:PiM?<OL6=hpL<#\Dk?:s!U;RmKD8n9GEV9!sPniD#1NI#Z]NlYZl<+Vm_4hCsT$)9mh(50Y*@;]Y5h,Prf7\h`VaG&VtIP;Rc%?KN*U.TJbX.T`&04aG9EUY@r3PdrBL.`b$'j9<9S`Ye,WlijE&#B%3@&bb55Sjo'<`J@2@2PkXY"WTHn)NV&5aBs(Yh7`HEspL[N/*P+6lP&.;94@Wfde?-=N6CBO>hpMaXtD$V7Ejc/6,P^UEYiI>a7.Hb-c*[O''ft^/,,#`_KYA:N($Z8/LAoJ,!NorQ"hU.TB;#-3_A_'Y?JYE"iSqaQTA^XWt+MD(?[n,BHQ,I']]_6ZuuP50l&.COk,rdW`bD4J>GG11E6r8Q*N;n&.gL10piQNd'ilAr4G>InCYR?-77\U+1:[a@>k[2FuA*2DFi6mVOY-7BX>:rq$FZmA&<r(HDEX/LYd!(h8tGj_$p?fi*m$clU?k,)Tm$a@J%.d8?&["eCPhWo.GG97Zc'$<3io@IpCnbrcT:Fsc$dra:[_qnbs\nfQA9H?A?jg/*JBCmj`C<4T)B%MGs0/%BoW<P'>3-g1k#5q`hVI?oRfB"U\f2TRIO\OHoK[!T%YHJ)6l#VT/You*Cl<%R=-D\>fU,$A=X>_&j<bHE\$/0?L[>p^4U^cFdCf,T-h^C&(?UYJ_&oR(.6S%Wm<;c%-;%k!lY92K'-g6Yfjn$DM047nCVaS4tUMG3*M;DWsd&6Qm]Sf;mkTgtq1R)pHP5T<E,GX-FXR$4`K[e3o7UGPH0iXpjKNiEd>^90SK9gk,f\^i=i-qdO#Z)ocHX-6'HA<uHC(92oC&CdU]1?@d)()[K26sSg8fMs1FK2D[rJTq`;<U=i/'AI:7_!`ZS[nPg(($M8b>:oN-5$jcbS%'oK1>ZZ4)noG3r_V1l)RFc>S%Xr7HgL@EY2d2moX7;26s6j2@C`41&SKN?%PYK7_)VIqW'jcW#\Ko1Z=q^:XqGCgr-gK9m`hgW@32(003$GTP)?:C4\JEUh-I:R\"*ik'qJcs^!Yq/3Y#IH])J`rGI;hPNi]A+%+\[J]b:0N'5XMrafR&eR6'mt2>/VsmB3kkq]d[0Zq:*Jd_)1][-L41fi#+1Z&'TV%WE`6'd%?E;efN2d&\Afg;p<$E9i#UH<`A]DIlo&oYEHVS4=arh!'U.1O_KHK"1hMVc=K?9?pam@f(a^6unn]]O>$QhDA3afKHYOa'kHGY>%>B>E$uEqVK)TTXsF,[B:opO^dhBLh;Mf<>OBQQ5XW)/_F\Peofjr=JH8Y.SqJ\Rl5G&BgbT:pCkhk[*c4`%S&+-A?e/6QO6'p&n\1tN+D@1"p;&$kTE\RGT;6Vd1=O5k?i#,\H7*LB,*':S9Jgk!jPR$H*(#TpHaELal5n4_kbTn_T59J46mJ0OQf_G`QP+1d,,.7RnIneZJE\d+8OE#B1TeaFE7<<ip?I(S>MoBScAS']%7LXN&MV%H/OhXaohO-3_A^pEF9I.CBoe;!62bEj,MsK))h+sB:#0MFau]7!O<U53!@)OU:XjW/Rug/RN60]H*<F!5'M$<"^tH(J*k\F9;P62%o3/VV.6'jrn@hLR)sKZ?ua@eo9[aO6dRT$McCi`C\iM2quMKPM"\7'=r4*OLMPtc"=tAI5*)!M!qoR;)-NeA4-QF_-J,*%<:"L&\[BZH!N+ZG[roLh^p,@5&-<mVp:XAu2PkA@V@G<)MW@(([0'JpBOg&bEP:@DSGH#ObYPG`DM%m'd%*G-Ea-L7C'>C.['mF5Z6ZuW1GUfH);8;!2c,9S(j(/trYfYd?R[nm51]IIb-=JKgKc-u*kffeK[-RO!aOO'q`Z[d-!l6dhC]J;LpihomF'4io5C/WrqNl!Ym[Ea>%S[.kkY1Y"+:$Z)ZH'R<.iCe]\W/r4$,70eE&082r;q.XpDPsU.R(ieP2k7m8=b^_T84Io.HTdhXhi57!.0EOXGi7rjg0_U,"'cUWYI+[^U*L6*1-pHQJaN6tL-X+sf_H,s&6aS46sM60r>Fhn'iAs7qh$1-%P13W!oLP'2do9Ms/#?(XhDVFOQih,DfclnEgN!M4Z%^"E[&_J*`g:GZ3ANG'ZDLn[l>pBR]h3G4OBbuKrmh6!kU)Ptp,HVnIdb34dsoh1_C17P]b\_H5K<Yr30LpSnBk/Ha%1!!^V1_Q^:qF'-*'0'm6kosFQW,iZt*]iX%KQ!<A&9D%RF[S$n<])oKB6Ao%f(3V1Ob:tVC6g?QJSSg:qS]<Ml.K\K62L"Gb;*9Ej(b:E<26k"j@bBFE7iC3m#XMGM?co6J`Lu=p=$A;aiT$m^F+`jU$E-E6l3FPd!ib&]n4E82T-X>%m%oFC9[n=/jX,lU@JGUIa?COa"Q5_NS*V8XeW=GQGmO>n7!@..UK5KS\GG5%tE0#X0NbjH+.M*[ek@\:0V+=9p56r]VrX+;3U#a=`C.@9Xgfl'7#W@M@TUrlmS`*~>endstream
 endobj
 xref
-0 16
+0 19
 0000000000 65535 f 
 0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000484 00000 n 
-0000000672 00000 n 
-0000000835 00000 n 
-0000001060 00000 n 
-0000001245 00000 n 
-0000001416 00000 n 
-0000001636 00000 n 
-0000001706 00000 n 
-0000002051 00000 n 
-0000002118 00000 n 
-0000008827 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000328 00000 n 
+0000000436 00000 n 
+0000000614 00000 n 
+0000000817 00000 n 
+0000000994 00000 n 
+0000001219 00000 n 
+0000001418 00000 n 
+0000001624 000000 n 
+0000001826 00000 n 
+0000002012 00000 n 
+0000002247 00000 n 
+0000002317 00000 n 
+0000002668 00000 n 
+0000002735 00000 n 
+0000005448 00000 n 
 trailer
 <<
 /ID 
-[<2bc37a48a54ed5bfd54537038946751d><2bc37a48a54ed5bfd54537038946751d>]
+[<7608ab4e668ea8faae9063a74f8b099b><7608ab4e668ea8faae9063a74f8b099b>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 12 0 R
-/Root 11 0 R
-/Size 16
+/Info 15 0 R
+/Root 14 0 R
+/Size 19
 >>
 startxref
-15159
+8612
 %%EOF
